@@ -26,16 +26,3 @@ Projeto simples de **agenda de contatos**, desenvolvido com **Java** e **Maven**
 - try/catch
 
 ---
-
-## 📂 Estrutura do projeto (Maven)
-
-Agenda/
-├── pom.xml
-└── src/
-└── main/
-└── java/
-└── com/
-└── agenda/
-├── agendaMain.java # Classe principal (menu)
-├── contatos.java # Lógica de cadastro e listagem
-└── GettersAndSetters.java # Atributos e métodos auxiliares
